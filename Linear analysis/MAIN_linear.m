@@ -95,7 +95,7 @@ fprintf('STRESS RECOVERY \n\n')
 
 %% PLOTTING THE STRESS DISTRIBUTION 
 
-%[ELEMENT]=plotting_stresses(ELEMENT,GEOMETRY,SF,type_SF);
+[ELEMENT]=plotting_stresses(ELEMENT,GEOMETRY,SF,type_SF);
 
 
 
